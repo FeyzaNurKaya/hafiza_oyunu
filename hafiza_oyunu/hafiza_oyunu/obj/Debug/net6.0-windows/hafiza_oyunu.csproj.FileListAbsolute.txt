@@ -1,0 +1,17 @@
+C:\Users\kayaa\source\repos\hafiza_oyunu\hafiza_oyunu\obj\Debug\net6.0-windows\hafiza_oyunu.csproj.GenerateResource.cache
+C:\Users\kayaa\source\repos\hafiza_oyunu\hafiza_oyunu\obj\Debug\net6.0-windows\hafiza_oyunu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kayaa\source\repos\hafiza_oyunu\hafiza_oyunu\obj\Debug\net6.0-windows\hafiza_oyunu.AssemblyInfoInputs.cache
+C:\Users\kayaa\source\repos\hafiza_oyunu\hafiza_oyunu\obj\Debug\net6.0-windows\hafiza_oyunu.AssemblyInfo.cs
+C:\Users\kayaa\source\repos\hafiza_oyunu\hafiza_oyunu\obj\Debug\net6.0-windows\hafiza_oyunu.csproj.CoreCompileInputs.cache
+C:\Users\kayaa\source\repos\hafiza_oyunu\hafiza_oyunu\obj\Debug\net6.0-windows\hafiza_oyunu.Form1.resources
+C:\Users\kayaa\source\repos\hafiza_oyunu\hafiza_oyunu\bin\Debug\net6.0-windows\hafiza_oyunu.exe
+C:\Users\kayaa\source\repos\hafiza_oyunu\hafiza_oyunu\bin\Debug\net6.0-windows\hafiza_oyunu.deps.json
+C:\Users\kayaa\source\repos\hafiza_oyunu\hafiza_oyunu\bin\Debug\net6.0-windows\hafiza_oyunu.runtimeconfig.json
+C:\Users\kayaa\source\repos\hafiza_oyunu\hafiza_oyunu\bin\Debug\net6.0-windows\hafiza_oyunu.dll
+C:\Users\kayaa\source\repos\hafiza_oyunu\hafiza_oyunu\bin\Debug\net6.0-windows\hafiza_oyunu.pdb
+C:\Users\kayaa\source\repos\hafiza_oyunu\hafiza_oyunu\obj\Debug\net6.0-windows\hafiza_oyunu.dll
+C:\Users\kayaa\source\repos\hafiza_oyunu\hafiza_oyunu\obj\Debug\net6.0-windows\refint\hafiza_oyunu.dll
+C:\Users\kayaa\source\repos\hafiza_oyunu\hafiza_oyunu\obj\Debug\net6.0-windows\hafiza_oyunu.pdb
+C:\Users\kayaa\source\repos\hafiza_oyunu\hafiza_oyunu\obj\Debug\net6.0-windows\hafiza_oyunu.genruntimeconfig.cache
+C:\Users\kayaa\source\repos\hafiza_oyunu\hafiza_oyunu\obj\Debug\net6.0-windows\ref\hafiza_oyunu.dll
+C:\Users\kayaa\source\repos\hafiza_oyunu\hafiza_oyunu\obj\Debug\net6.0-windows\hafiza_oyunu.Properties.Resources.resources
